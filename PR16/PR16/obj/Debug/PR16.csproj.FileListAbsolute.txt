@@ -1,0 +1,10 @@
+C:\Users\Ez\source\repos\PR16\PR16\bin\Debug\PR16.exe.config
+C:\Users\Ez\source\repos\PR16\PR16\bin\Debug\PR16.exe
+C:\Users\Ez\source\repos\PR16\PR16\bin\Debug\PR16.pdb
+C:\Users\Ez\source\repos\PR16\PR16\obj\Debug\PR16.csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR16\PR16\obj\Debug\PR16.Form1.resources
+C:\Users\Ez\source\repos\PR16\PR16\obj\Debug\PR16.Properties.Resources.resources
+C:\Users\Ez\source\repos\PR16\PR16\obj\Debug\PR16.csproj.GenerateResource.cache
+C:\Users\Ez\source\repos\PR16\PR16\obj\Debug\PR16.csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR16\PR16\obj\Debug\PR16.exe
+C:\Users\Ez\source\repos\PR16\PR16\obj\Debug\PR16.pdb
